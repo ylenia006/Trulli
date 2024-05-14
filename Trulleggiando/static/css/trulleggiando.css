@@ -1,0 +1,216 @@
+.background
+{
+	background-color: #F8ECD3 ;
+}
+.nav-color
+{
+	background-color: #F8ECD3;
+}
+
+.hero-image 
+{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 10)), url("https://images.unsplash.com/photo-1632226705528-14afa4dcdc0f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2203&q=80");
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  font-size: 30px;
+  font-family: 'IM Fell Double Pica';
+}
+
+.hero-text 
+{
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  margin-left: 40%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-button
+{
+	background-color: #F8ECD3;
+	text-decoration-color: #685B48;
+	border-color:  #F8ECD3;
+	border-radius: 5px;
+	border-width: 0px;
+	font-family: 'Source Sans Pro';
+}
+
+.color-card1
+{
+	background-color:  #D1B283;
+
+}
+
+.color-card2
+{
+	background-color: #D3DCDB;
+}
+
+.color-card3
+{
+	background-color: #868A66;
+}
+
+.bordi
+{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.whoweare
+{
+  background-image: url("https://media.istockphoto.com/id/1043062548/it/foto/gruppo-di-amiche-che-si-tengono-per-mano-insieme-contro-il-tramonto.jpg?s=612x612&w=0&k=20&c=eHxtsphCWQrV0KnBxJMIAxjUcU8h6Y8_dN_Oo2aWINA=");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+.whowearetext
+{
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  margin-left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  line-height: 27px;
+  font-size: 20px;
+}
+
+.abstract
+{
+	 font-size: 100px;
+	 font-family: 'IM Fell Double Pica';
+}
+
+.opacity
+{
+	background-color:rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+}
+
+.allcenter
+{
+	text-align: center;
+}
+
+.Contattaci
+{
+	margin-top: 40px;
+}
+
+.links
+{
+	color: black;
+	font-family: 'IM Fell Double Pica';
+	font-size: 20px;
+}
+
+.card-title
+{
+	font-family: 'IM Fell Double Pica';
+	font-size: 30px;
+}
+
+.card-text
+{
+	font-family: 'Source Sans Pro';
+}
+
+.green
+{
+	background-color: #868A66;
+	border-width: 0px;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 30px;
+	font-family: 'IM Fell Double Pica';
+	color: white;
+}
+
+.terra
+{
+	font-size: 50px;
+	font-family: 'IM Fell Double Pica';
+	color: #868A66;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.paragrafi
+{
+	padding-left: 200px;
+	padding-right: 200px;
+	color: #685B48;
+	font-family: 'Source Sans Pro';
+	font-size: 17px;
+}
+
+.testo
+{
+	text-decoration-color: white;
+	padding: 30px;
+	font-family: 'Source Sans Pro';
+}
+
+.titolone
+{
+	font-size: 40px;
+	font-family: 'IM Fell Double Pica';
+	color: white;
+	
+}
+
+.colorpadding
+{
+	margin-top: 40px;
+	margin-bottom: 20px;
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #868A66;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 30px;
+}
+
+.form
+{
+	color: #685B48;
+	font-family: 'Source Sans Pro';
+	font-size: 20px; 
+	font-weight: bold;
+}
+
+.submit
+{
+	background-color: #D1B283;
+	border-color:  #D1B283;
+	border-radius: 5px;
+	border-width: 0px;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 17px;
+}
+
+.contatti
+{
+	
+}
+
+
+
